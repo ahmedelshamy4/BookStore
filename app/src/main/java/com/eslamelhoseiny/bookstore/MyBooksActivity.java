@@ -76,6 +76,7 @@ public class MyBooksActivity extends AppCompatActivity
         SearchManager searchManager = (SearchManager) getSystemService(SEARCH_SERVICE);
         SearchView searchView = (SearchView) menu.findItem(R.id.action_search).getActionView();
         searchView.setSearchableInfo(searchManager.getSearchableInfo(getComponentName()));
+        Toast.makeText(getApplicationContext(),"test git hub comment",Toast.LENGTH_SHORT).show();
         return true;
     }
 
