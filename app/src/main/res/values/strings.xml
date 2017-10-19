@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="title_activity_my_books">Books</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="choose">Choose</string>
+    <string name="galary">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="cannot_read_imag">Cannot Read Selected Image</string>
+    <string name="Enter_name">Enter your name</string>
+    <string name="Enter_email">Enter Email</string>
+    <string name="Email_not_formatted">Email not formatted well</string>
+    <string name="Enter_password">Enter password</string>
+    <string name="Password_length_error"><![CDATA[password length must >6]]></string>
+    <string name="Register_with_us">Register With Us</string>
+    <string name="email_already_exists">Email already exists</string>
+    <string name="error_in_conection">error in conection</string>
+    <string name="logout">Logout</string>
+    <string name="search">search</string>
+</resources>
